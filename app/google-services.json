@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "96426557656",
+    "firebase_url": "https://signupin-10af5.firebaseio.com",
+    "project_id": "signupin-10af5",
+    "storage_bucket": "signupin-10af5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96426557656:android:ca6cef73256369f9",
+        "android_client_info": {
+          "package_name": "com.example.ysh.firebaseemail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96426557656-9v4t7tlvb6m3uukkj61abesqu0i0072e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC11Gm9sC0TZ8cQeptjvz1Dl48-8WLnzLQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
